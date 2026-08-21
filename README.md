@@ -4,7 +4,7 @@ I am a Computer Engineering student specializing in Information Technology at UP
 
 ### Current Status
 - Completing my final years of Computer Engineering at UPNA.
-- Studying networking concepts, network infrastructure and security fundamentals.
+- Studying networking concepts, network infrastructure, and security fundamentals.
 - Preparing for the CompTIA Security+ (Sec+) exam.
 
 ### Education & Certificates
@@ -13,12 +13,13 @@ I am a Computer Engineering student specializing in Information Technology at UP
 
 ### Next Steps (Certification Roadmap)
 - AWS Cloud Practitioner (CLF-C02)
-- AWS Solutions Architect - Associate (SAA-C03)
-- Hashicorp Terraform Associate
-- AWS Security Specialty (SCS-C03)
+- AWS Certified Solutions Architect - Associate (SAA-C03)
+- HashiCorp Certified: Terraform Associate
+- AWS Certified Security - Specialty (SCS-C03)
   
-### Core Technologies
-- **Systems & OS:** Linux, Windows
-- **Networking:** TCP/IP, Routing & Switching, Network Defense.
-- **Programing and Scripting:** Python, C, Java
-- **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform)
+### Academic & Technical Foundation
+Through my Computer Engineering degree and personal training, I have built a solid base in:
+- **Computer Science:** Computer Architecture, Software Architecture, and Knowledge Engineering.
+- **Programming (Academic level):** Python, C, Java.
+- **Systems & Networking:** Linux basics, TCP/IP, and Network Defense.
+- **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform).
