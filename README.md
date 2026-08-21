@@ -7,9 +7,16 @@ I am a Computer Engineering student specializing in Information Technology at UP
 - Studying networking concepts, network infrastructure and security fundamentals.
 - Preparing for the CompTIA Security+ (Sec+) exam.
 
-### Certifications/Certificates
-- **Cisco Certified Support Technician (CCST)** Certificate
+### Education & Certificates
+- **Computer Engineering (IT)** — UPNA *(In Progress)*
+- **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
+### Next Steps (Certification Roadmap)
+- AWS Cloud Practitioner (CLF-C02)
+- AWS Solutios Architect - Associate (SAA-C03)
+- Hashicorp Terraform Associate
+- AWS Security Specialty (SCS-C03)
+  
 ### Core Technologies
 - **Systems & OS:** Linux, Windows
 - **Networking:** IT knownledge
