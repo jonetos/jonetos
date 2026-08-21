@@ -4,19 +4,14 @@ I am a Computer Engineering student specializing in Information Technology at UP
 
 ### Current Status
 - Completing my final years of Computer Engineering at UPNA.
-- Studying networking concepts, Linux administration, and security fundamentals.
+- Studying networking concepts, network infrastructure and security fundamentals.
 - Preparing for the CompTIA Security+ (Sec+) exam.
 
-### Certifications
-- **Cisco Certified Support Technician (CCST)** - *[Añade aquí si es Networking o Cybersecurity]*
+### Certifications/Certificates
+- **Cisco Certified Support Technician (CCST)** Certificate
 
 ### Core Technologies
-- **Systems & OS:** Linux
-- **Networking:** Cisco basics
-- **Scripting:** Python
+- **Systems & OS:** Linux, Windows
+- **Networking:** IT knownledge
+- **Scripting:** Python, C, Java
 - **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform)
-
-### Links & Contact
-- [LinkedIn](URL_DE_TU_LINKEDIN)
-- [Credly Badges](URL_DE_TU_CREDLY)
-- Email: tu.correo@ejemplo.com
