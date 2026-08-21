@@ -1,33 +1,22 @@
-# Hi there, I'm Jon! 👋
+# Jon — IT Engineering Student
 
-I'm a Computer Engineering student specializing in Information Technology (IT) at UPNA. My passion lies in **Cloud Security, Infrastructure as Code (IaC), and Network Architecture**. I'm currently on the road to becoming a Cloud Security & Infrastructure Architect, focusing on designing secure AWS environments and automating infrastructure deployments.
+I am a Computer Engineering student specializing in Information Technology at UPNA. My technical focus is on systems, networking, and IT infrastructure. I am currently building the foundation to become a Cloud Security and Infrastructure Architect.
 
-### 🚀 What I'm currently doing
-* 🎓 Studying my final years of Computer Engineering at the Public University of Navarre (UPNA).
-* ☁️ Deep diving into Cloud Architecture and Cloud Governance.
-* 🏗️ Learning to deploy secure, highly available infrastructure using Terraform.
+### Current Status
+- Completing my final years of Computer Engineering at UPNA.
+- Studying networking concepts, Linux administration, and security fundamentals.
+- Preparing for the CompTIA Security+ (Sec+) exam.
 
-### 🎯 Certifications Roadmap
-I believe in validating my foundational knowledge through industry-standard certifications:
-* **Achieved:**
-  * ✅ Cisco Certified Support Technician (CCST)
-* **In Progress / Next Steps:**
-  * ⏳ AWS Certified Cloud Practitioner (CLF-C02)
-  * ⏳ CompTIA Security+ (Sec+)
-* **Future Goals:**
-  * 🎯 AWS Certified Solutions Architect - Associate (SAA)
-  * 🎯 HashiCorp Certified: Terraform Associate
-  * 🎯 AWS Certified Security - Specialty (SCS)
+### Certifications
+- **Cisco Certified Support Technician (CCST)** - *[Añade aquí si es Networking o Cybersecurity]*
 
-### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+### Core Technologies
+- **Systems & OS:** Linux
+- **Networking:** Cisco basics
+- **Scripting:** Python
+- **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform)
 
-### 📫 How to reach me
-* **LinkedIn:** [Añade tu enlace a LinkedIn aquí cuando lo tengas]
-* **Email:** [Tu correo público]
+### Links & Contact
+- [LinkedIn](URL_DE_TU_LINKEDIN)
+- [Credly Badges](URL_DE_TU_CREDLY)
+- Email: tu.correo@ejemplo.com
