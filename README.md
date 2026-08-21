@@ -13,12 +13,12 @@ I am a Computer Engineering student specializing in Information Technology at UP
 
 ### Next Steps (Certification Roadmap)
 - AWS Cloud Practitioner (CLF-C02)
-- AWS Solutios Architect - Associate (SAA-C03)
+- AWS Solutions Architect - Associate (SAA-C03)
 - Hashicorp Terraform Associate
 - AWS Security Specialty (SCS-C03)
   
 ### Core Technologies
 - **Systems & OS:** Linux, Windows
-- **Networking:** IT knownledge
-- **Scripting:** Python, C, Java
+- **Networking:** TCP/IP, Routing & Switching, Network Defense.
+- **Programing and Scripting:** Python, C, Java
 - **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform)
