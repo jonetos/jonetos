@@ -12,7 +12,6 @@ I am a Computer Engineering student specializing in Information Technology at UP
 - **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
 ### Next Steps (Certification Roadmap)
-- AWS Cloud Practitioner (CLF-C02)
 - AWS Certified Solutions Architect - Associate (SAA-C03)
 - HashiCorp Certified: Terraform Associate
 - AWS Certified Security - Specialty (SCS-C03)
