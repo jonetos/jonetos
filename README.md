@@ -9,6 +9,7 @@ I am a Computer Engineering student specializing in Information Technology at UP
 
 ### Education & Certificates
 - **Computer Engineering (IT)** — UPNA *(In Progress)*
+- **CompTIA Security+ (Sec+) Certified** - CompTIA *(In Progress)*
 - **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
 ### Next Steps (Certification Roadmap)
