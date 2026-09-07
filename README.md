@@ -1,19 +1,18 @@
 # Jon — IT Engineering Student
 
-I am a Computer Engineering student specializing in Information Technology at UPNA. My technical focus is on systems, networking, and IT infrastructure. I am currently building the foundation to become a Cloud Security and Infrastructure Architect.
+I am a Computer Engineering student specializing in Information Technology at UPNA. My technical focus is on systems, networking, and IT infrastructure. I am currently building the foundation to become a Cloud Security Engineer and Infrastructure Architect.
 
 ### Current Status
 - Completing my final years of Computer Engineering at UPNA.
-- Studying networking concepts, network infrastructure, and security fundamentals.
-- Preparing for the CompTIA Security+ (Sec+) exam.
+- Diving into Cloud, AWS and IaC concepts and proyects
+- Studying and preparing for the AWS Certified Solutions Architect - Associate (SAA-C03) Certification
 
 ### Education & Certificates
 - **Computer Engineering (IT)** — UPNA *(In Progress)*
-- **CompTIA Security+ (Sec+) Certified** - CompTIA *(In Progress)*
+- **CompTIA Security+ (Sec+) Certified** - CompTIA
 - **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
 ### Next Steps (Certification Roadmap)
-- AWS Certified Solutions Architect - Associate (SAA-C03)
 - HashiCorp Certified: Terraform Associate
 - AWS Certified Security - Specialty (SCS-C03)
   
