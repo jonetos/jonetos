@@ -13,12 +13,13 @@ I am a Computer Engineering student specializing in Information Technology at UP
 - **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
 ### Next Steps (Certification Roadmap)
+- AWS Certified Solutions Architect - Associate (SAA-C03)
 - HashiCorp Certified: Terraform Associate
 - AWS Certified Security - Specialty (SCS-C03)
   
 ### Academic & Technical Foundation
 Through my Computer Engineering degree and personal training, I have built a solid base in:
-- **Computer Science:** Computer Architecture, Software Architecture, and Knowledge Engineering.
+- **Computer Science:** Computer Architecture, Software Architecture, and Computation.
 - **Programming (Academic level):** Python, C, Java.
 - **Systems & Networking:** Linux basics, TCP/IP, and Network Defense.
 - **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform).
