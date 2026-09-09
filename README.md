@@ -8,7 +8,7 @@ I am a Computer Science student specializing in Information Technology at UPNA. 
 - Studying and preparing for the AWS Certified Solutions Architect - Associate (SAA-C03) Certification
 
 ### Education & Certificates
-- **Computer Science (IT)** — UPNA *(In Progress)*
+- **Computer Science** — UPNA *(In Progress)*
 - **CompTIA Security+ Certified** - CompTIA
 - **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
 
