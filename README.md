@@ -10,7 +10,7 @@ I am a Computer Science student specializing in Information Technology at UPNA. 
 ### Education & Certificates
 - **Computer Science** — UPNA *(In Progress)*
 - **CompTIA Security+ Certified** - CompTIA
-- **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy *(120h foundational training in Networking & Security)*
+- **Cisco Junior Cybersecurity Career Path** — Cisco Networking Academy
 
 ### Next Steps (Certification Roadmap)
 - AWS Certified Solutions Architect - Associate (SAA-C03)
