@@ -15,11 +15,12 @@ I am a Computer Science student specializing in Information Technology at UPNA. 
 ### Next Steps (Certification Roadmap)
 - AWS Certified Solutions Architect - Associate (SAA-C03)
 - HashiCorp Certified: Terraform Associate
+- GitHub Actions Certification (CH-200)
 - AWS Certified Security - Specialty (SCS-C03)
   
 ### Academic & Technical Foundation
 Through my degree and personal training, I have built a solid base in:
-- **Computer Science:** Computer Architecture, Software Architecture, and Computation.
+- **Computer Science:** Computer Architecture, Software Architecture, and Operative Systems.
 - **Programming (Academic level):** Python, C, Java.
 - **Systems & Networking:** Linux basics, TCP/IP, and Network Defense.
-- **Currently exploring:** AWS fundamentals, Infrastructure as Code (Terraform).
+- **Currently exploring:** AWS Cloud Arquitectures, Infrastructure as Code (Terraform).
